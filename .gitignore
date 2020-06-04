@@ -6,6 +6,7 @@
 *.idea/
 *.bas
 *.cbc
+*.chd
 *.ddn
 *.dis
 *.evt
@@ -15,6 +16,7 @@
 *.nam
 *.oc
 *.pcg
+*.riv
 *.rch
 *.mpbas
 *.mpend
