@@ -9,11 +9,9 @@ After you have done this you should complete the assignment below in the **Assig
 
 When you are finished
 
-1) Submit your final report by placing it in the **Submission** folder. You do not need to include your ipynb in the submission folder.
+1) Submit your final report by placing it in the **Submission** folder. You need to include your ipynb in the submission folder.
 
-2) In the ReadMe of the submission folder add a list of the file you used to produce your results.
-
-3) Make sure you commit and push your changes so that your submission will be uploaded.
+2) Make sure you commit and push your changes so that your submission will be uploaded.
 
 ----
 ### Assignment
